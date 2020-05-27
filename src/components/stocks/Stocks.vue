@@ -6,7 +6,7 @@
 
 
 <script>
-import Stock from "../stocks/Stock.vue";
+import Stock from "./Stock.vue";
 export default {
   components: {
     Stock
